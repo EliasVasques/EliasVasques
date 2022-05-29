@@ -4,11 +4,11 @@
 - 🌱 Aprendendo react, em busca do full stack javascript.
 - 📫 Contate-me no e-mail: eliasvasques74@gmail.com
 
-<!--<div>
+<div>
   <a href="https://github.com/EliasVasques">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasVasques&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasVasques&layout=compact&langs_count=7&theme=dark"/>
-</div>-->
+</div>
   
  <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
