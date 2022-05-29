@@ -1,7 +1,7 @@
 ### Olá, eu sou Elias. 👋
 
 - 🔭 Ainda não estou trabalhando com programação, #openToWork.
-- 🌱 Aprendendo react, em busca do full stack javascript.
+- 🌱 Aprendendo react, em busca do front-end javascript.
 - 📫 Contate-me no e-mail: eliasvasques74@gmail.com
 
 <div>
