@@ -2,7 +2,7 @@
 
 - 🔭 Ainda não estou trabalhando com programação, #openToWork.
 - 🌱 Stack MERN: MongoDb, ExpressJs, ReactJs e NodeJs.
-- 🌲 Esrevo soluções em Python🐍 e queries em MySql
+- 🌲 Escrevo soluções em Python🐍 e queries em MySql
 - 🗣 Inglês não é um problema, me viro bem (entendo e consigo comunicar).
 - 📫 Contate-me no e-mail: eliasvasques74@gmail.com
 
