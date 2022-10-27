@@ -5,7 +5,7 @@
 - 🌲 Escrevo soluções em Python🐍 e queries em MySql
 - 🗣 Inglês não é um problema, me viro bem (entendo e consigo comunicar).
 - 📫 Contate-me no e-mail: eliasvasques74@gmail.com
-- 😜 Foco em **React**, mais projetos no meu outro github: <a href="https://github.com/Elias-ReactDeveloper/Elias-ReactDeveloper" target="_blank">**Elias-ReactDeveloper**</a>
+- 😜 Foco em **React**, mais projetos no meu outro github: <a href="https://github.com/Elias-ReactDeveloper/Elias-ReactDeveloper">**Elias-ReactDeveloper**</a>
 
 <div>
   <a href="https://github.com/EliasVasques">
