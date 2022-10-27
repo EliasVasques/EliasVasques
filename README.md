@@ -1,10 +1,11 @@
 ### Olá, eu sou Elias. 👋
 
-- 🔭 Ainda não estou trabalhando com programação, #openToWork.
-- 🌱 Stack MERN: MongoDb, ExpressJs, ReactJs e NodeJs.
+- 🔭 Ainda não estou trabalhando com programação, **#openToWork**.
+- 🌱 **Stack MERN**: MongoDb, ExpressJs, ReactJs e NodeJs.
 - 🌲 Escrevo soluções em Python🐍 e queries em MySql
 - 🗣 Inglês não é um problema, me viro bem (entendo e consigo comunicar).
 - 📫 Contate-me no e-mail: eliasvasques74@gmail.com
+- 😜 Foco em **React**, mais projetos no meu outro github: **Elias-ReactDeveloper**
 
 <div>
   <a href="https://github.com/EliasVasques">
